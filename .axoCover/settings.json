@@ -1,0 +1,16 @@
+{
+  "TestRunner": "VsTestRunner",
+  "TestPlatform": "x86",
+  "TestApartmentState": "STA",
+  "TestAdapterMode": "Standard",
+  "TestSettings": "",
+  "ExcludeAttributes": "System.Diagnostics.CodeAnalysis.ExcludeFromCodeCoverageAttribute",
+  "ExcludeFiles": "",
+  "ExcludeDirectories": "C:\\bf",
+  "Filters": "+[*]* -[Microsoft*]* -[Moq]* -[Newtonsoft*]* ",
+  "IsIncludingSolutionAssemblies": true,
+  "IsExcludingTestAssemblies": false,
+  "IsCoveringByTest": true,
+  "IsMergingByHash": true,
+  "IsSkippingAutoProps": true
+}
