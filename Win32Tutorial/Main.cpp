@@ -1,3 +1,4 @@
+#include "stdafx.h"
 #include "Main.h"
 #include "MainWindow.h"
 

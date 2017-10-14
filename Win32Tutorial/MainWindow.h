@@ -1,5 +1,4 @@
 #pragma once
-#include "Stdafx.h"
 class MainWindow
 {
 private:

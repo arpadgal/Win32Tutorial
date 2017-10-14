@@ -1,4 +1,3 @@
-#include "Stdafx.h"
 
 #define SafeRelease(p) if(p) { (p)->Release(); (p) = nullptr; }
 
